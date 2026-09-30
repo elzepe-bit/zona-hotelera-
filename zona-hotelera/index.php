@@ -1,4 +1,7 @@
 <?php session_start(); ?>
+
+// Prueba de actualización en GitHub
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
